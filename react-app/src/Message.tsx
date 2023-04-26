@@ -1,6 +1,6 @@
 //functon based component
 function Message() {
-  const name = "Freddy";
+  const name = "Freddy Rios";
   return <h1>Hello {name}</h1>;
 }
 
